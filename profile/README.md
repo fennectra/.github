@@ -11,6 +11,8 @@
   <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/Tests-285+-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" alt="Tests"></a>
   <a href="https://packagist.org/packages/fennectra/framework"><img src="https://img.shields.io/badge/Packagist-fennectra-F28D1A?style=flat-square&logo=packagist&logoColor=white" alt="Packagist"></a>
   <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/FrankenPHP-Ready-00ADD8?style=flat-square&logo=go&logoColor=white" alt="FrankenPHP"></a>
+  <img src="https://img.shields.io/badge/OpenAPI-3.0-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI 3.0">
+  <img src="https://img.shields.io/badge/Scalar-API_Docs-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+&logoColor=white" alt="Scalar">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -72,6 +74,7 @@ composer create-project fennectra/skeleton my-api
 - **Multi-Driver Storage** — Local, AWS S3, Google Cloud Storage
 - **Notifications** — Email (SMTP), Slack, Database, Webhooks
 - **Email Templates** — Multilingual templates in database
+- **OpenAPI 3.0 + Scalar** — Auto-generated API docs from your code
 - **Code Generation** — `make:all`, `make:email`, `make:webhook`, `make:audit`
 - **Compliance** — NF525, RGPD, SOC 2 audit trails
 - **285+ Unit Tests** — PHPStan level 5, PSR-12
