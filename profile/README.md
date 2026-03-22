@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/PHP-8.3+-8892BF?style=flat-square&logo=php&logoColor=white" alt="PHP 8.3+"></a>
   <a href="https://github.com/fennectra/framework/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/Tests-285+-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" alt="Tests"></a>
+  <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/Tests-320+-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" alt="Tests"></a>
   <a href="https://packagist.org/packages/fennectra/framework"><img src="https://img.shields.io/badge/Packagist-fennectra-F28D1A?style=flat-square&logo=packagist&logoColor=white" alt="Packagist"></a>
   <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/FrankenPHP-Ready-00ADD8?style=flat-square&logo=go&logoColor=white" alt="FrankenPHP"></a>
   <img src="https://img.shields.io/badge/OpenAPI-3.0-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI 3.0">
@@ -77,5 +77,5 @@ composer create-project fennectra/skeleton my-api
 - **OpenAPI 3.0 + Scalar** — Auto-generated API docs from your code
 - **Code Generation** — `make:all`, `make:email`, `make:webhook`, `make:audit`
 - **Compliance** — NF525, RGPD, SOC 2 audit trails
-- **285+ Unit Tests** — PHPStan level 5, PSR-12
+- **320+ Tests** — Unit + Integration tests, PHPStan level 5, PSR-12
 
