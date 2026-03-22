@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fennectra/.github/main/profile/banner.png" alt="Fennectra" width="100%" />
+  <img src="https://raw.githubusercontent.com/fennectra/.github/main/profile/banner.webp" alt="Fennectra" width="100%" />
 </p>
 
 <h3 align="center">PHP 8.3+ High-Performance MVC API Framework</h3>
