@@ -1,9 +1,9 @@
+<h3 align="center">PHP 8.3+ API Framework</h3>
+<p align="center"><i>Native SOC 2, ISO 27001, NF525 & RGPD compliance built-in</i></p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/fennectra/.github/main/profile/fennectra.png" alt="Fennectra" width="100%" />
 </p>
-
-<h3 align="center">PHP 8.3+ API Framework</h3>
-<p align="center"><i>Native SOC 2, ISO 27001, NF525 & RGPD compliance built-in</i></p>
 
 <p align="center">
   <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/PHP-8.3+-8892BF?style=flat-square&logo=php&logoColor=white" alt="PHP 8.3+"></a>
