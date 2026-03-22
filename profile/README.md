@@ -36,10 +36,22 @@
 ### Quick Start
 
 ```bash
-composer create-project fennectra/skeleton my-api
+# Install the CLI (once)
+composer global require fennectra/installer
+
+# Create a new project
+fennectra new my-api
 cd my-api
 ./forge serve
 ```
+
+<details>
+<summary>Alternative: without the installer</summary>
+
+```bash
+composer create-project fennectra/skeleton my-api
+```
+</details>
 
 ### Packages
 
