@@ -38,7 +38,7 @@
 ```bash
 composer create-project fennectra/skeleton my-api
 cd my-api
-php artisan serve
+./forge serve
 ```
 
 ### Packages
