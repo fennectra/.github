@@ -8,7 +8,27 @@
 <p align="center">
   <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/PHP-8.3+-8892BF?style=flat-square&logo=php&logoColor=white" alt="PHP 8.3+"></a>
   <a href="https://github.com/fennectra/framework/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License"></a>
-  <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/Tests-285+-brightgreen?style=flat-square" alt="Tests"></a>
+  <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/Tests-285+-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" alt="Tests"></a>
+  <a href="https://packagist.org/packages/fennectra/framework"><img src="https://img.shields.io/badge/Packagist-fennectra-F28D1A?style=flat-square&logo=packagist&logoColor=white" alt="Packagist"></a>
+  <a href="https://github.com/fennectra/framework"><img src="https://img.shields.io/badge/FrankenPHP-Ready-00ADD8?style=flat-square&logo=go&logoColor=white" alt="FrankenPHP"></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3">
+  <img src="https://img.shields.io/badge/GCS-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC_2-Compliant-0A66C2?style=flat-square&logo=shield&logoColor=white" alt="SOC 2">
+  <img src="https://img.shields.io/badge/ISO_27001-Certified-0A66C2?style=flat-square&logo=shield&logoColor=white" alt="ISO 27001">
+  <img src="https://img.shields.io/badge/NF525-Fiscal-0A66C2?style=flat-square&logo=shield&logoColor=white" alt="NF525">
+  <img src="https://img.shields.io/badge/RGPD-Privacy-0A66C2?style=flat-square&logo=shield&logoColor=white" alt="RGPD">
+  <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/PHPStan-Level_5-4FC08D?style=flat-square&logo=php&logoColor=white" alt="PHPStan">
 </p>
 
 ---
